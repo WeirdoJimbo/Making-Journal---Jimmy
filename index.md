@@ -5,7 +5,8 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*Hi I'm Jimmy, this is my page for DES240:Designing With Data. I'm hoping to learn some more about coding as well as learn about data representation and how to format it. My background as a designer is mainly with UX/UI Design, mostly focusing on it during highschool. As a designer I'm most interested in UX/UI but I also have growing passion for motion design.*
+
 
 ---
 
