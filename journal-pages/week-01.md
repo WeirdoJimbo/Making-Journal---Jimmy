@@ -16,10 +16,10 @@ layout: default
 *Use the format below to embed images from your assets folder:*
 
 `![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+`*Your caption *`
 
 ![This is a Photo](../assets/week-01/ourGroupImage.JPG)
-*Your caption here*
+*This is a photo of my groups work*
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
