@@ -18,7 +18,9 @@ In our first class of the semester we learnt about different ways to visualise d
 -	When did you wake up this morning?
 -	Did you listen to music on the way to uni today?
 -	Which area do you live in?
-The way we visualised this data was the following
+
+The way we visualised this data was the following:
+
 -	A color: green = happy, red = angry, blue = sad, orange = okay, pink = tired
 -	A icon:  car = bus/car, person = walking,
 -	A icon: moon = 4-9am, cloud = 9-12am, sun = after 12pm
@@ -69,6 +71,6 @@ Any other reflections?
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+During Week 1's section of the making journal I did not use any AI
 
 
