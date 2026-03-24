@@ -14,7 +14,7 @@ title: Home
 
 | Week | Topic |
 |------|-------|
-| [Week 01](journal-pages/week-01.md) | Experiment 1 |
+| [Week 01](journal-pages/week-01.md) | Experiment 1 Data Drawings |
 | [Week 02](journal-pages/week-02.md) | Experiment 2 |
 | [Week 03](journal-pages/week-03.md) | Experiment 3 |
 | [Week 04](journal-pages/week-04.md) | Experiment 4 |

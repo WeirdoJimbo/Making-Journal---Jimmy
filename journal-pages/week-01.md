@@ -6,16 +6,40 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+# In Class Experiment
+In our first class of the semester we learnt about different ways to visualise data, and how the use of shapes, colours, icons, and more can be used to visualise data in creative and interesting ways – especially ways that you wouldn’t normally think off. In class we got into groups of 4 and then came up with 5 questions and then as a group we came up with a way to visualise the answers to the question with colours and icons.
 
-
-## Images & Media
 ![This is a Photo of our data drawing](../assets/week-01/ourGroupImage.JPG)
-*This is a photo of my groups work*
 
-# Week 1 Solo Experiment 1 
+ My group asked the questions of
+-	How was your week so far?
+-	How did you get to uni today?
+-	When did you wake up this morning?
+-	Did you listen to music on the way to uni today?
+-	Which area do you live in?
+The way we visualised this data was the following
+-	A color: green = happy, red = angry, blue = sad, orange = okay, pink = tired
+-	A icon:  car = bus/car, person = walking,
+-	A icon: moon = 4-9am, cloud = 9-12am, sun = after 12pm
+-	A icon: music note = yes, cross = no
+-	Location of all of the icons based on compass on where in Auckland.
+
+We then paired up with another group and tried to determine what their questions were based on their visual data. 
+
+![This is a Photo of the other groups data drawing](../assets/week-01/otherGroupImage.jpeg)
+From their drawings Showcased above, we determined that the length of the cat was how they felt during the day, the lines in the timestamp were how long they slept for, and we thought that the spiral thing was how big their family was. Afterwards we got back with the groups and explain them to each other. It turned out that their group had the following questions
+
+-	How much do you eat a day?
+-	The length of the last song they listened to?
+-	What app do you use most on your phone?
+-	How many hours did you spend on your phone?
+-	How long do you sleep during the day
+
+I think that we did pretty good and were able two of the questions right, I think the use of the cats to display the app they used the most was really creative. The length of the song being displayed as the spiral things was really confusing and we still had to get it explained it to us twice before we fully understood, with how many spirals being the length in minutes.
+
+
+# Solo Experiment 1 
 
 ## Track
 During the day I decided to track often I would pick up my phone. I wanted to do this, as I find that I am someone who gets distracted a lot, often times when doing something, I'll end up picking up my phone and just doomscrolling when I should be doing work. 
@@ -43,7 +67,8 @@ What would you develop further with more time?
 Any other reflections?
 
 
-
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+
