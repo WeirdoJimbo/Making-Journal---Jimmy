@@ -7,12 +7,15 @@ layout: default
 [← Back to Home](../index.md)
 
 # In Class Experiment 
-During class in week three we did Live Data collection, we started out by watching a video about a man on the train using a pen and paper to collect the data of the movement of the train. I think this video was really memorable to me as I never really thought about collecting data in this way, this was really different as instead of actively asking questions or actively listening or thinking, he passively just waited and let the movement of the train move him and collected data via that. After watching that video we then begun the actual in class experiments, we first started by going into our terminals and playing around. On my MacBook I first started out by playing around with some commands such as pwd – which got the computer to show which directory im current in, ls – asking the computer whats in the directory, cd ____ - which if asking for a folder, would take you into a folder,  and finally cd .. – which would go back. This was pretty could as I’ve seen the terminal a lot in my life whether which downloading Minecraft mods, or playing video games, but I’ve never actually known what it did, and being able to expirment with it was really cool. 
+During class in week three we did Live Data collection, we started out by watching a video about a man on the train using a pen and paper to collect the data of the movement of the train. I think this video was really memorable to me as I never really thought about collecting data in this way, this was really different as instead of actively asking questions or actively listening or thinking, he passively just waited and let the movement of the train move him and collected data via that. After watching that video we then begun the actual in class experiments, we first started by going into our terminals and playing around. On my MacBook I first started out by playing around with some commands such as pwd – which got the computer to show which directory im current in, ls – asking the computer whats in the directory, cd ______ - which if asking for a folder, would take you into a folder,  and finally cd .. – which would go back. This was pretty could as I’ve seen the terminal a lot in my life whether which downloading Minecraft mods, or playing video games, but I’ve never actually known what it did, and being able to expirment with it was really cool. 
 
 ## Curl
 After that we learnt about curl which is an open source command line tool which can be used for transferring data over the internet. We first started by copy and pasting 
+
 -	curl ascii.live/forrest
+
 into our command terminal which showcased a running man in our terminal. It was pretty cool to see this play out in our terminal as it was something that we can do offline. 
+
 ![IPhoto](../assets/week-03/3-1.png)
 
 After that we then tried using 
@@ -75,4 +78,4 @@ Now unfortunately for us the group we got paired with didn’t follow the instru
 
 After that we compared with the other group, and they followed our protocol to a t and basically did it the way we intended with a tally for how many voices they heard. For them we told them we had to change it and they realised once we begun that theirs probably didn’t work. They did like how captured the data as it was about the same as what they intended for the mapping, which was good as that meant that the rest of their protocol was good and clear.
 
-#Independent Study 
+# Independent Study 

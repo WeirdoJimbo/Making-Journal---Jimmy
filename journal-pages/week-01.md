@@ -61,12 +61,6 @@ This exercise relates to data humanism because it focuses on personal experience
 ## Further Reflections
 This exercise made me more aware of how often distractions happen during a normal day. Before tracking it, I knew that I would get distracted often, but I did not realise how often it actually was. Seeing the number written down made the pattern much clearer. It also showed how large a role my phone plays in interrupting my focus.
 
-What data and visual aspects from Experiment 1 did you choose to work with, and why?
-How did you decide which interactive elements to use?
-What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
-Did you use vibe coding or other tools in your process? What did you learn from this?
-What would you develop further with more time?
-Any other reflections?
 
 
 ## AI Usage Statement
