@@ -24,6 +24,7 @@ After Ollama we then went to an website called NotebookLM, we started out by add
 -	Something you're curious about but haven't had a chance to explore yet.
 
 I tried this but some reasons it wouldn’t accept my file so I just decided to entire the information manually and was told that it would work like that too. So I entered the following information 
+
 -	I found most interesting was the second one, creating a data visualisation on p5.
 -	A theme I keep coming back to the use of technology within my designs, and my overreliance of it sometimes
 -	Something that I’m curious about is motion design
@@ -80,11 +81,11 @@ ChatGPT told me that thing data would be very useful as with the current data yo
 I think the first one was that the data was purely administrative, and there was no data from lived in experience from the schools, so even though a school may look good on paper, but if you were to ask students the school may be performing poorly, which is another reason why filling in the gaps in data such as the students’ academic results would be useful. Another thing that it brought up again was the fact that the data was only a snapshot and not a full history, which would hide things such as if the school was growing or shrinking in roll, or if there was temporary issues with the school it would be frozen in that point of time. 
 Afterwards I asked ChatGPT to generate me a photo of the data for me to evaluate it first gave me this photo:
 
-![ChatGPT Photo](../assets/week-04/4-2. png)
+![ChatGPT Photo](../assets/week-04/4-2.png)
 
 This first image was okay, it seemed really cluttered, and honestly it was quite hard to get information of it, or make any key critical evaluations from the data. So I asked it to remove a few of the more useless graphs, as well to make the data more clear so you could evaluate it and make assumptions and overall just a easier way to read it. This is the result of that next prompt 	
 
- ![ChatGPT Photo](../assets/week-04/4-3. png)
+ ![ChatGPT Photo](../assets/week-04/4-3.png)
 
 This second data set visualisation was very nice as it was so much more clearer, only having three different graphs, as well at the top it gave me some nice clear important information such as the median school roll, and total schools. Another key feature in this visualisation is that its more laid out like you would find in academic worksheets or papers, which I find much more useful as someone who studied Statistics in the past. After evaluating this visualisation I then asked ChatGPT to give me a third one but I wanted this one to be even more different from the first two, more specifically a map of New Zealand with all the schools. With the outcome being:
 
