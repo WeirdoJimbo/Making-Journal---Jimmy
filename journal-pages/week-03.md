@@ -5,23 +5,22 @@ layout: default
 # Week 03
 
 [← Back to Home](../index.md)
-
 # In Class Experiment 
-During class in week three we did Live Data collection, we started out by watching a video about a man on the train using a pen and paper to collect the data of the movement of the train. I think this video was really memorable to me as I never really thought about collecting data in this way, this was really different as instead of actively asking questions or actively listening or thinking, he passively just waited and let the movement of the train move him and collected data via that. After watching that video we then begun the actual in class experiments, we first started by going into our terminals and playing around. On my MacBook I first started out by playing around with some commands such as pwd – which got the computer to show which directory im current in, ls – asking the computer what’s in the directory, cd ____ - which if asking for a folder, would take you into a folder,  and finally cd .. – which would go back. This was pretty could as I’ve seen the terminal a lot in my life whether which downloading Minecraft mods, or playing video games, but I’ve never actually known what it did, and being able to experiment with it was really cool. 
+During class in week three we did Live Data collection, we started out by watching a video about a man on the train using a pen and paper to collect the data of the movement of the train. I think this video was really memorable to me as I never really thought about collecting data in this way, this was really different as instead of actively asking questions or actively listening or thinking, he passively just waited and let the movement of the train move him and collected data via that. After watching that video we then begun the actual in class experiments, we first started by going into our terminals and playing around. On my MacBook I first started out by playing around with some commands such as pwd – which got the computer to show which directory I’m current in, ls – asking the computer what’s in the directory, cd ____ - which if asking for a folder, would take you into a folder,  and finally cd .. – which would go back. This was pretty could as I’ve seen the terminal a lot in my life whether which downloading Minecraft mods, or playing video games, but I’ve never actually known what it did, and being able to experiment with it was really fun and interesting to see. 
 
 ## Curl
 After that we learnt about curl which is an open source command line tool which can be used for transferring data over the internet. We first started by copy and pasting 
 
 -   curl ascii.live/forrest
 
-into our command terminal which showcased a running man in our terminal. It was pretty cool to see this play out in our terminal as it was something that we can do offline. 
+into our command terminal which showcased a running man in our terminal. It was pretty cool to see this play out in our terminal as it was something that we can see in our computer terminal but it was taken straight from the internet. Meaning we were able to search for things on the internet without all the extra steps.  
 
 ![Forrest Running](../assets/week-03/3-1.png)
 
 After that we then tried using 
 -   curl wttr.in
 
-This actually didn’t work in class for some reason, but after the class I went home and on my home Wi-Fi it did work, and it generated a full weather report for the next three days, which again was pretty cool to see as it gave all the information needed in a well formatted way without too much clutter. Also it was pretty cool once again that it was all just taken from my computer and curl. We also then tried to filter the data which was done with the following command lines. 
+This actually didn’t work in class for some reason, but after the class I went home and on my home Wi-Fi it did work, and it generated a full weather report for the next three days, which was interesting to see as it gave all the information needed in a well formatted way without too much clutter. As well I once again found it fascinating that it was all just taken from my computer and curl, meaning that we were able to skip through going on google or another browser to search and instead just get straight to the information. We also then tried to filter the data which was done with the following command lines. 
 
 -   curl "wttr.in/Auckland?format=3"
 -   curl "wttr.in/Auckland?format=4"
@@ -44,10 +43,10 @@ This was pretty interesting, I think that It was pretty cool how the simple code
 
 -   curl https://api.dictionaryapi.dev/api/v2/entries/en/design
 
-This generated a large box of text, which was kind of hard to understand, but it seemed to generate everything from the definition, to the phonetics, and synonyms of the word. The reason why it generated such a large box of text that was slightly hard to read was because to gave us the whole Json format, which is normally used on the web, so when transferred on our terminals it looked a bit weird. 
+This generated a large box of text, which was kind of hard to understand, but it seemed to generate everything from the definition, to the phonetics, and synonyms of the word. The reason why it generated such a large box of text that was slightly hard to read was because it gave us the whole Json format, which is normally used on the web, so when transferred on our terminals it looked a bit weird. 
 
 ## Weather Visualisation 
-After experimenting with curl in the terminal, we then moved onto visualising the weather, this was done in p5 once again, alongside an API – a structured way for programs to communicate and exchange data. The sketch we opened in p5 was using The Open Meteo API which gathered the data from Auckland allowing us to map its properties, such as the humidity of the air changing the background colour of the canvas, the red rectangle in the corner as the wind speed, and the size of the circle as the temperature times by ten. I thought this was really cool way to display the data with images, I know this course is all about finding ways to display data that is different and unique. I find that even halfway into the semester this course still gets me thinking in ways that I wouldn’t have thought about in the past and visualising data and ideas as a whole in new and creative ways that pre semester me never would’ve even considered.
+After experimenting with curl in the terminal, we then moved onto visualising the weather, this was done in p5 once again, alongside an API – a structured way for programs to communicate and exchange data. The sketch we opened in p5 was using The Open Meteo API which gathered the data from Auckland allowing us to map its properties, such as the humidity of the air changing the background colour of the canvas, the red rectangle in the corner as the wind speed, and the size of the circle as the temperature times by ten. I thought this visualised the data in a unique way, I know this course is all about finding ways to display data that is different and unique; however I find that even halfway into the semester this course still gets me thinking in ways that I wouldn’t have thought about in the past and visualising data and ideas as a whole in new and creative ways that pre semester me never would’ve even considered.
 
 ## Live Data Protocols
 For the final bit in class, we got into pairs – or in my case a group of three, and then created a data protocol - which is a set of rules for gathering live data. For our protocol we had to specify three things.
@@ -85,3 +84,4 @@ After getting it to work I then wanted to make New Zealand a bit more accurate s
  ![Good New Zealand](../assets/week-03/3-7jpeg)
 
 I think this was fun to create, it was similar to what we did in class with the use of the weather Api as well as the ISS Api. However I also think that this week’s independent study could’ve been done better, I think that it was completed to a high standard but I also feel that I’ve been relying on AI a bit in week 2 and a decent amount in week 3, I know going forwards I should try and rely less on AI as while I’ve reflected on this week’s experiments I think that as soon as I got stuck I went straight to asking AI what to do, instead of thinking for myself. I know that this is definitely hindering my creative processes, however I think it is good that I’m noticing this and also being mindful of it as I also know that looking at the course schedule, week 4 is going to focus on AI. 
+
