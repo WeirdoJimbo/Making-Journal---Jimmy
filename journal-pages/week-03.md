@@ -6,76 +6,98 @@ layout: default
 
 [← Back to Home](../index.md)
 
-# In Class Experiment 
-During class in week three we did Live Data collection, we started out by watching a video about a man on the train using a pen and paper to collect the data of the movement of the train. I think this video was really memorable to me as I never really thought about collecting data in this way, this was really different as instead of actively asking questions or actively listening or thinking, he passively just waited and let the movement of the train move him and collected data via that. After watching that video we then begun the actual in class experiments, we first started by going into our terminals and playing around. On my MacBook I first started out by playing around with some commands such as pwd – which got the computer to show which directory im current in, ls – asking the computer whats in the directory, cd ______ - which if asking for a folder, would take you into a folder,  and finally cd .. – which would go back. This was pretty could as I’ve seen the terminal a lot in my life whether which downloading Minecraft mods, or playing video games, but I’ve never actually known what it did, and being able to expirment with it was really cool. 
+# In Class Discussions
+Like I assumed last week, week fours class started with a discussion on AI, we talked about ideas such as how AI might change the future of design, the ethics around it, as well as the sovereignty of AI. Personally I know that AI is going to be a big part of design in the future – as it already is a heavy part of it now, even the university of Auckland has begun teaching the use of AI in our core second year courses. I think that designers should not stay away from AI as a whole, as in our first year we were taught that designers need to keep an open mind and be open to adaptability, and if we were to keep a closed mindset towards AI it just wouldn’t be helpful to us as Designers. I think that AI is alright to use as long as it does not replace your entire Design Process, I think that AI is very helpful to streamline some repetitive processes when designing. Personally I do use Ai features that come with apps such as Figma, photoshop, and premier pro as I find them very useful to help me do things in a matter of seconds that would normally take me a few hours, some notable examples would be the the rotoscoping in Premier Pro, as well as the ai fill in photoshop – these allowing me to streamline simple but long processes to a matter of seconds.
 
-## Curl
-After that we learnt about curl which is an open source command line tool which can be used for transferring data over the internet. We first started by copy and pasting 
+## Ollama
+After our talk about AI we then moved on to experimenting with Ollama it was an AI chatbot that was entirely in our terminals. I think this was really cool as it was very similar to ChatGPT and other Ai chatbots I’ve used before, but it was also different as you could see how it was thinking and the way it came upon ideas. Although it did feel slower than other AI chatbots you’d find on the internet I did find it cool how it was just on my terminal once again, and it did seem that the quality was very poor compared to some of the free models you’d find online. I asked it to generate me some code for a landscape in p5, and although it did give me some code, the outcome of the image just wasn’t good.
 
--	curl ascii.live/forrest
+![Ollama Landscape](../assets/week-04/4-1jpeg)
 
-into our command terminal which showcased a running man in our terminal. It was pretty cool to see this play out in our terminal as it was something that we can do offline. 
+ Since a lot of the class had problems with getting their Ollama downloaded we quickly moved to the second part of the in class experiment. 
 
-![IPhoto](../assets/week-03/3-1.png)
+## NotebookLM
+After Ollama we then went to an website called NotebookLM, we started out by adding some sources to the website, some of the things I included was my making journal, a previous website that I’d worked on, as well as an article from high school that was slightly related to the website. Then we were told to add a new text file called context.md and in it add three sentences
 
-After that we then tried using 
--	curl wttr.in
+-	The experiment you found most interesting and why
+-	A theme or idea you keep coming back to
+-	Something you're curious about but haven't had a chance to explore yet.
 
-This actually didn’t work in class for some reason, but after the class I went home and on my home Wi-Fi it did work, and it generated a full weather report for the next three days, which again was pretty cool to see as it gave all the information needed in a well formatted way without too much clutter. Also it was pretty cool once again that it was all just taken from my computer and curl. We also then tried to filter the data which was done with the following command lines. 
+I tried this but some reasons it wouldn’t accept my file so I just decided to entire the information manually and was told that it would work like that too. So I entered the following information 
+-	I found most interesting was the second one, creating a data visualisation on p5.
+-	A theme I keep coming back to the use of technology within my designs, and my overreliance of it sometimes
+-	Something that I’m curious about is motion design
 
--	curl "wttr.in/Auckland?format=3"
--	curl "wttr.in/Auckland?format=4"
--	curl "wttr.in/Auckland?format=%l:+%t+%c"
--	curl "wttr.in/Auckland?format=%l:+%t+%h+%w"
+After that we were tasked to ask it the following questions
 
-The following codes and the meaning
+-	"If my sources were documentation for a design project, what would the final outcome be?"
+-	"What do my sources suggest I care about?"
+-	"Identify a provocation hidden in my sources"
+-	"What would someone who disagrees with the ideas in my sources argue?"
+-	"Which of my sources are you drawing on for that, and which are you ignoring?"
 
--	%l – Location
--	%t – Temperature
--	%c – Weather Condition (Displayed as an emoji)
--	%h – Humidity 
--	%w – Wind 
--	%s – Sunrise
--	%u – UV Index – 1-12 
+And it came up with the following responses:
+-	My Final Outcome would be an interactive data-driven digital platform – most likely a website or app. 
+-	Based on the sources it would suggest that I cared about things such as technical design innovation, and dedicated community service. As well it suggested that I had care for UX/UI design, technical skill mastery, and creative experimentation
+-	 One hidden provocation that it found was the tenison between the technical automation of design, and the deeply human nature of humanitarian service. 
+-	Something that it said it would argue is institutionalization of altruism and the technical reduction of human connection. Making points such as Technical Reductionism Vs Human Integrity, and the Ethics of using Service as a “Design Playground”
+-	It seemed to focus a lot more on my sources for my service awards, Charity website pages, and making journal, and it ignored other names on the service awards lists, as well as bank details to donate on the charity website.
 
-![IPhoto](../assets/week-03/3-2.png)
+Afterwards we were also tasked to generate an audio overview and give it a listen to. The thing that I found the most surprising element was how the overview managed to bridged the gap between my past in high school getting my service colours and my current identity as a design student at university. Hearing the hosts connect the "outstanding contributions" mentioned in the school news – such as volunteering at local hospitals or foodbank, to my technical goals in DES240 was a perspective I hadn't fully articulated myself. It highlighted that my interest in UX/UI design isn't just a career path, but a continuation of the integrity and passion noted by Sir David Moxon in the Solomon Islands Medical Mission website.
+### What it Got Wrong
+The overview occasionally struggled with the noting the difference between the $88,000 raised by the school community and my specific making journal. It seemed to imply that the money my high school helped raised were a direct result of the data representation experiments I’m currently doing at uni, even though the sources I added suggest the fundraising is an established annual effort by my school community. Additionally, while it correctly identified my "growing passion for motion design," it overestimated how much of that has been integrated into the SIMMNZ project so far, given that I have only just recently started learning about it and how to use After Affects.
 
-This was pretty interesting, I think that It was pretty cool how the simple codes could also be added together, again it was pretty cool to see that all of this was achievable through just the command terminal in my computer. After that we then used curl to look up words via the dictionary using the command line.
+# Individual Experiment 
+For this weeks individual experiment, we were tasked with getting a csv database from catalogue.data.govt.nz and then enter it into an AI chatbot, so I got a database about all the schools in New Zealand and put it into ChatGPT. I asked ChatGPT questions such as 
 
--	curl https://api.dictionaryapi.dev/api/v2/entries/en/design
+-	What could you tell me about this data 
+-	Is there anything that is missing from this data that could be useful for making inferences and that could be helpful overall
+-	Do you know when this data was taken
+-	Would you say there is any bias to consider in this dataset
+-	Can you visualise this data for me via a graph
+The AI told me about how the dataset contains a data on every school in New Zealand, with a row of 2,578, and 50 different coloumns, with information such as 
+-	School Ids
+-	School Name
+-	Status
+-	Location Data
+-	Type
+-	Structure
+-	Roll 
+-	Authority 
+-	And more
+The AI gave me a clear indication on what I was able to find with this data, but it also indicated how there was some crucial data that would be important for answering questions and making inferences. Some of this data included things such
+-	Student outcomes (NCEA, literacy, numeracy, ect) 
+-	Teaching Staff Data 
+-	Funding
+-	Trends
+ChatGPT told me that thing data would be very useful as with the current data you can describe the schools in New Zealand, but you wouldn’t be able to judge their performances, and if any schools needed extra help compared to other schools. As well ChatGPT brought up an interesting point that the dataset is only a snapshot of trends, and not a full history, so that made me wonder when this dataset was actually taken. I asked ChatGPT about it and it indicated that based on what it could tell it was recent and that dataset was actually created as I downloaded it, which makes me believe that either the catalogue data website was updated live, or the dataset was taken very recently such early 2026, as it indicated there were schools that been opened starting 2026.  Afterwards I asked it if there were any bias to consider within this dataset, and it gave me some interesting points. 
 
-This generated a large box of text, which was kind of hard to understand, but it seemed to generate everything from the definition, to the phonetics, and synonyms of the word. The reason why it generated such a large box of text that was slightly hard to read was because to gave us the whole Json format, which is normally used on the web, so when transferred on our terminals it looked a bit weird. 
+I think the first one was that the data was purely administrative, and there was no data from lived in experience from the schools, so even though a school may look good on paper, but if you were to ask students the school may be performing poorly, which is another reason why filling in the gaps in data such as the students’ academic results would be useful. Another thing that it brought up again was the fact that the data was only a snapshot and not a full history, which would hide things such as if the school was growing or shrinking in roll, or if there was temporary issues with the school it would be frozen in that point of time. 
+Afterwards I asked ChatGPT to generate me a photo of the data for me to evaluate it first gave me this photo:
 
-## Weather Visualisation 
-After experimenting with curl in the terminal, we then moved onto visualising the weather, this was done in p5 once again, alongside an API – a structured way for programs to communicate and exchange data. The sketch we opened in p5 was using The Open Meteo API which gathered the data from Auckland allowing us to map its properties, such as the humidity of the air changing the background colour of the canvas, the red rectangle in the corner as the wind speed, and the size of the circle as the temperature times by ten. 
+![ChatGPT Photo](../assets/week-04/4-2. png)
 
-ADD MORE LATER MAYBE
+This first image was okay, it seemed really cluttered, and honestly it was quite hard to get information of it, or make any key critical evaluations from the data. So I asked it to remove a few of the more useless graphs, as well to make the data more clear so you could evaluate it and make assumptions and overall just a easier way to read it. This is the result of that next prompt 	
 
-## Live Data Protocols
-For the final bit in class, we got into pairs – or in my case a group of three, and then created a data protocol - which is a set of rules for gathering live data. For our protocol we had to specify three things.
+ ![ChatGPT Photo](../assets/week-04/4-3. png)
 
--	Source: what live data to observe (e.g. sounds in the room, a live transport tracker on your phone)
--	Frequency: how often to check (e.g. every 10 seconds, every minute)
--	Mapping: how to record each observation as a mark, shape, or action
+This second data set visualisation was very nice as it was so much more clearer, only having three different graphs, as well at the top it gave me some nice clear important information such as the median school roll, and total schools. Another key feature in this visualisation is that its more laid out like you would find in academic worksheets or papers, which I find much more useful as someone who studied Statistics in the past. After evaluating this visualisation I then asked ChatGPT to give me a third one but I wanted this one to be even more different from the first two, more specifically a map of New Zealand with all the schools. With the outcome being:
 
-My group came up with the following:
+![ChatGPT Photo](../assets/week-04/4-4.png)
 
--	Source:  How many tables has atleast one person talking
--	Frequency: Every 10 Seconds
--	Mapping: Tally 
+Obviously this map didn’t work from ChatGPT so I attempted two more times refining it with each prompt getting more and more refined, trying to slowly explain to ChatGPT that there was no New Zealand, and the datapoints weren’t actually showing up, but no luck. Eventually I told ChatGPT to completely ignore the previous questions and just to generate a map of New Zealand with all the datapoints, and that actually somehow worked, below is what it generated  
 
-![My group Protocol](../assets/week-03/3-3.jpeg)
+![ChatGPT Photo](../assets/week-04/4-5.png)
 
-Then afterwards we swapped with another group and their protocol had the following:
+With that being generated I decided to move on to something slightly different, I asked ChatGPT to generate me a infographic poster, and the first generation was just the map photo with a title, and that was about it, so I asked it to generate me a graphical poster, with images and cool text. It kept giving me basically the same thing with just the map and then some text, which was good but it really wasn’t what I was after. 
 
--	Source: Sounds on a street while walking 
--	Frequency: Every 10 Seconds
--	Mapping: Lines on a paper
+## Critical Evaluation
+I think AI has immense potential to the future of design, it has the possibilities to streamline design processes, and be used as a tool to make our lives as designers so much easier, without fully replacing us and our work. However I do also believe at its current stage AI is not sustainable enough to work out in the long run, issues with cost to run via hardware, as well as the wastage of water, which goes against our UoA design kawa of kaitiakitanga. As well the ethical concerns are a big factor that we had to consider during our DES200 course. During this weeks work we got to learn and think about about all of this via our experimentation with AI. 
 
-Now unfortunately for us the group we got paired with didn’t follow the instructions properly as we were told to create a protocol for data we can collect in the classroom, so we updated their source to be, sounds we can hear in the classroom. We were sort of confused by the mapping, as it was kind of vague, what we ended up with was, we would draw the lines shape based on how the sound felt/sounded like, eg loud sudden sound, sharp zigzag big line. The way we timed the frequency was by using a stopwatch on someone’s phone that way we could accurately measure the frequency.
+I found that in the case of ChatGPT often when asked for something you would have to either ask multiple times, or refine your prompt a few times before getting a result that you were even slightly happy with. I noticed that for the first generation of the visual generations it defaulted to a graph, which makes sense as the default way I would visualise data like that. Comparing results with friends in the class it seemed that ChatGPT would default to graphs for most people when just asked to visualise this data. It also seemed that I had to correct and had to redirect it in the direction I wanted to, i.e asking for less graphs to make it legible and useable, also during my creation of a map visual graph, it seemed to not be able to work out how to do it until I had it start over from scratch which was really strange and annoying. 
 
-![Other Group Protocol](../assets/week-03/3-4.jpeg)
+One interesting thing I noted when generating the third data visual – the poster, was the fact that he kept thinking that the poster was for an assignment, which is why it kept generating me educational posters – when I was going more so for looks than data. I think the reason why it did this is because of my history with ChatGPT, it knows that I am a uni student and it knows that I often use it to help me with assignments. It also makes me consider any bias it made when it gave me my previous outputs and if they were at all influenced via my history. With that in mind I do wonder what would happen if I were to try this experiment again either on a new account, or not logged in at all. 
 
-After that we compared with the other group, and they followed our protocol to a t and basically did it the way we intended with a tally for how many voices they heard. For them we told them we had to change it and they realised once we begun that theirs probably didn’t work. They did like how captured the data as it was about the same as what they intended for the mapping, which was good as that meant that the rest of their protocol was good and clear.
+I think that the map visual was probably the most interesting to work with as it really opened my eyes to the limits that ChatGPT has, and how often times it wont get it right straight away a lot of times, it really got me to consider if anything else in the past was wrong, and I haven’t been thinking critically enough to consider that it was wrong. I now really think that ChatGPT at most is simple tool, I don’t think it should be relied upon heavily for more complex design operations, such as for graphic design, or even for designing with data.  
 
-# Independent Study 
+I think that if I were to do this independent study without AI it would’ve taken me a lot longer, but I think that the outputs would’ve been more refined with its data representation and looked a look better overall. I think that’s the overall consensus that I’ve come up with Ai, Its very useful at the start of the design process, but lacks depth later on. I think that an example would be the map visual, it took a long time to get AI to generate that image but if I were to do it without AI, I probably wouldn’t have tried to do that map, and instead I probably would’ve used another tool such as NZ Grapher to give me some visualisations of that data. 
