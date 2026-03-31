@@ -55,7 +55,9 @@ For this weeks individual experiment, we were tasked with getting a csv database
 -	Do you know when this data was taken
 -	Would you say there is any bias to consider in this dataset
 -	Can you visualise this data for me via a graph
+
 The AI told me about how the dataset contains a data on every school in New Zealand, with a row of 2,578, and 50 different coloumns, with information such as 
+
 -	School Ids
 -	School Name
 -	Status
@@ -65,11 +67,14 @@ The AI told me about how the dataset contains a data on every school in New Zeal
 -	Roll 
 -	Authority 
 -	And more
+
 The AI gave me a clear indication on what I was able to find with this data, but it also indicated how there was some crucial data that would be important for answering questions and making inferences. Some of this data included things such
+
 -	Student outcomes (NCEA, literacy, numeracy, ect) 
 -	Teaching Staff Data 
 -	Funding
 -	Trends
+
 ChatGPT told me that thing data would be very useful as with the current data you can describe the schools in New Zealand, but you wouldn’t be able to judge their performances, and if any schools needed extra help compared to other schools. As well ChatGPT brought up an interesting point that the dataset is only a snapshot of trends, and not a full history, so that made me wonder when this dataset was actually taken. I asked ChatGPT about it and it indicated that based on what it could tell it was recent and that dataset was actually created as I downloaded it, which makes me believe that either the catalogue data website was updated live, or the dataset was taken very recently such early 2026, as it indicated there were schools that been opened starting 2026.  Afterwards I asked it if there were any bias to consider within this dataset, and it gave me some interesting points. 
 
 I think the first one was that the data was purely administrative, and there was no data from lived in experience from the schools, so even though a school may look good on paper, but if you were to ask students the school may be performing poorly, which is another reason why filling in the gaps in data such as the students’ academic results would be useful. Another thing that it brought up again was the fact that the data was only a snapshot and not a full history, which would hide things such as if the school was growing or shrinking in roll, or if there was temporary issues with the school it would be frozen in that point of time. 
@@ -90,6 +95,10 @@ Obviously this map didn’t work from ChatGPT so I attempted two more times refi
 ![ChatGPT Photo](../assets/week-04/4-5.png)
 
 With that being generated I decided to move on to something slightly different, I asked ChatGPT to generate me a infographic poster, and the first generation was just the map photo with a title, and that was about it, so I asked it to generate me a graphical poster, with images and cool text. It kept giving me basically the same thing with just the map and then some text, which was good but it really wasn’t what I was after. 
+
+![ChatGPT Poster](../assets/week-04/4-6.png)
+![ChatGPT Poster](../assets/week-04/4-7.png)
+
 
 ## Critical Evaluation
 I think AI has immense potential to the future of design, it has the possibilities to streamline design processes, and be used as a tool to make our lives as designers so much easier, without fully replacing us and our work. However I do also believe at its current stage AI is not sustainable enough to work out in the long run, issues with cost to run via hardware, as well as the wastage of water, which goes against our UoA design kawa of kaitiakitanga. As well the ethical concerns are a big factor that we had to consider during our DES200 course. During this weeks work we got to learn and think about about all of this via our experimentation with AI. 
