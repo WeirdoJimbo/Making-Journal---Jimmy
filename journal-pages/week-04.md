@@ -12,7 +12,7 @@ Like I assumed last week, week fours class started with a discussion on AI, we t
 ## Ollama
 After our talk about AI we then moved on to experimenting with Ollama it was an AI chatbot that was entirely in our terminals. I think this was really cool as it was very similar to ChatGPT and other Ai chatbots I’ve used before, but it was also different as you could see how it was thinking and the way it came upon ideas. Although it did feel slower than other AI chatbots you’d find on the internet I did find it cool how it was just on my terminal once again, and it did seem that the quality was very poor compared to some of the free models you’d find online. I asked it to generate me some code for a landscape in p5, and although it did give me some code, the outcome of the image just wasn’t good.
 
-![Ollama Landscape](../assets/week-04/4-1jpeg)
+![Ollama Landscape](../assets/week-04/4-1.png)
 
  Since a lot of the class had problems with getting their Ollama downloaded we quickly moved to the second part of the in class experiment. 
 
