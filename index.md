@@ -19,7 +19,7 @@ title: Home
 | [Week 03](journal-pages/week-03.md) | Experiment 3 Live Data|
 | [Week 04](journal-pages/week-04.md) | Experiment 4 Artificial Intelligence |
 | [Week 05](journal-pages/week-05.md) | Proposal |
-| [Week 06](journal-pages/week-06.md) | Design Project |
+| [Week 06](journal-pages/week-06.md) | Hesperides - Planning |
 | [Week 07](journal-pages/week-07.md) | Design Project |
 | [Week 08](journal-pages/week-08.md) | Design Project |
 | [Week 09](journal-pages/week-09.md) | Design Project |

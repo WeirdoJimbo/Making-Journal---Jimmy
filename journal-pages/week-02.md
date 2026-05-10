@@ -46,5 +46,5 @@ Afterwards I saw that we needed to make it interactive, I thought that the best 
 ![Image of my data 2 ](../assets/week-02/2-6.png)
 
 Then I during class I got some feedback, and they said that it was kinda hard to see the specific data from each of the circles, so I came up with the idea to allow you to click on each of the circles to see their specific data, I didn’t really know how to do that either so once again I asked ChatGPT. It then gave me code that made it so when hovering over the circles it showed the various information. 
-
+    
 ![Image of my data 3 ](../assets/week-02/2-7.png)
