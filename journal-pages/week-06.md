@@ -8,18 +8,18 @@ layout: default
 
 ## Data Exploration
 
-My data will come from myself. I want to track my bank statements and record every transaction I make during the month of May. This will include things like food, rent, clothes, transport, subscriptions, and other daily spending. I will track each purchase in a spreadsheet, order the spending from highest to lowest, and record what the item was.
+My data will come from myself. I want to track my bank statements and record every transaction that I make during the month of May. This will include spending on things such as food, rent, clothes, transport, and other personal purchases. I will track every purchase on a spreadsheet, order it from highest to lowest, and record what the item was.
 
-I think there is definitely some personal bias within this dataset because I am collecting it from my own life. This data would look very different for someone else. For example, someone who lives at home with their parents may not have to pay rent or buy as much food, while I am flatting and have more regular living costs. Because of this, my project is not trying to represent everyone's spending. Instead, it is a personal snapshot of my own spending habits during one month.
+I think there is definitely some personal bias within this dataset because I am collecting it myself. This data would look very different for someone else. For example, someone who lives at home with their parents may not have to pay for rent or food, while I am flatting and have those costs. This means my data will not represent everyone’s spending, but it will still show my own habits and patterns.
 
-This means I need to keep the limits of the data in mind while creating my final artefact. I may also include a short project statement explaining that the work is based on personal data, not a universal experience.
+I think this is important to keep in mind while creating my final artefact. I may add a short message in the project statement explaining that the work is based on my own spending and should be viewed as a personal reflection rather than a universal result.
 
 ## Visual Research 
 
 ![Tree made from recycled materials](../assets/week-06/6-1.jpg)  
-*Image taken from Facebook at https://www.facebook.com/groups/845171258848707/posts/26748779004727911/*
+*Image taken from Facebook at https://www.facebook.com/groups/845171258848707/posts/26748779004727911/*  
 
-I think this tree sculpture really stood out to me because I initially believed it was a real tree before looking closer. As mentioned in my proposal, I want to create my sculpture out of recycled materials as a commentary on the overuse of AI that many designers have come to rely on. Seeing this sculpture reinforced my desire to use recycled materials to create this artefact, which I have named **Hesperides**.
+I think that this tree sculpture really stood out to me, as I initially believed it to be a real tree before looking deeper. As mentioned in my proposal, I really want to create my sculpture out of recycled materials as a commentary on the overuse of AI that many designers have come to rely on. Seeing this sculpture reinforced my desire to use recycled materials to create this artefact, which I have named “Hesperides.”
 
 ![Eco-Garden data sculpture](../assets/week-06/6-3.jpg)  
 *Image reference: Eco-Garden data sculpture, https://visforclimateaction.github.io/papers/1018-doc.pdf*
@@ -50,28 +50,38 @@ This reference connects to the name of my project, **Hesperides**. In Greek myth
 
 ![Image of my diagram drawing](../assets/week-06/6-2.jpg)
 
-I think my first priority is figuring out how I am going to create the sculpture. The main idea I am thinking about right now is using recycled cardboard as the main structure, then using paper and paper mache over the cardboard to build the tree form. Because of this, my first technical skill goal is learning how to make a stable paper mache structure.
+I think the first priority is figuring out how I am going to actually create the sculpture. The main idea I am thinking of right now is using recycled cardboard for the main structure, then adding paper and paper mache over the cardboard. This means my first priority is learning how to use paper mache properly and testing whether it will be strong enough for the final artefact.
 
-My current plan is to make the sculpture look like a tree. The branches or leaves could represent different spending categories, such as food, rent, clothes, transport, and entertainment. The size, number, or placement of these parts could show how much money I spent in each category. For example, larger branches could represent higher spending, while smaller ones could represent lower spending.
+The sculpture will most likely take the form of a tree. This links to the name “Hesperides,” which references the mythological garden and the idea of valuable fruit. In my project, the “fruit” or “leaves” of the tree could represent my spending. Each part of the tree could show a different category, such as food, rent, clothes, transport, or personal items.
 
-Moving forward, the next thing I need to do is start recording my spending. I will most likely note each purchase in my Notes app right after I spend the money, then move the data into a spreadsheet later. This should help me avoid forgetting small purchases. After that, I need to keep researching how to make my sculpture and test what materials work best.
+I also want the materials to support the message of the work. Since the project comments on spending, consumption, sustainability, and the overuse of AI, recycled materials feel like the right choice. Instead of using AI to make a polished digital visualisation, I want the final artefact to feel handmade, physical, and imperfect. This makes the work feel more human and personal.
+
+Moving forward, the next thing I need to do is start taking note of my spending. I will most likely record each transaction in my notes app as soon as I spend money, then move the data into a spreadsheet later. In the spreadsheet, I will organise the data by date, item, cost, and category. This will help me see what I spend the most money on and how I could turn that data into a physical form.
+
+After that, I need to do more research into how to make the sculpture. I will need to learn how to create a stable base, how to shape cardboard into a tree structure, how to apply paper mache, and how to attach the data pieces to the sculpture. I may also need to test different materials before deciding on the final method.
 
 ## Independent Study
 
-For independent study this week, I started thinking more about how my project can connect personal data with a wider idea. At first, I was mainly focused on tracking my spending and turning it into a physical sculpture. However, after developing the concept further, I realised the project could also comment on overconsumption, sustainability, and the overuse of AI in design.
+For my independent study this week, I focused on thinking through how my data and final artefact could connect more clearly. At first, I mainly knew that I wanted to track my spending and create a sculpture, but I had not fully decided how the data would appear in the final work. After looking at visual research, I started to think more about using the tree form as a way to show different types of spending.
 
-I want the handmade process to be an important part of the project. Instead of using AI to generate a clean final design, I want to physically make the artefact with recycled materials. This supports the concept because the work is about slowing down, paying attention to personal habits, and valuing physical making. It also links to the idea that food, objects, and handmade materials are some of the last physical experiences left in an increasingly digital world.
+One possible idea is to make each branch represent a spending category. For example, one branch could represent food, another could represent rent, and another could represent clothes or personal spending. The size or number of leaves on each branch could show how much money was spent in that category. This would allow the viewer to understand the data through the shape of the tree.
 
-The main skill I need to build is paper mache and sculpture construction. I need to test how strong cardboard is, how many layers of paper mache are needed, and whether the tree can stand without falling over. I also need to test how data can be shown clearly on the sculpture, so it does not become only decorative.
+Another idea is to use hanging tags or fruit-like shapes to represent individual purchases. Larger purchases could be shown through larger pieces, while smaller purchases could be shown through smaller pieces. This would make the spending data more visual and physical. It would also connect well to the name “Hesperides,” as the tree could hold objects that represent value, cost, and consumption.
+
+I also researched and thought about paper mache as a possible method. Paper mache could work well because it uses paper, glue, and water, which makes it accessible and low-cost. It also creates a handmade texture that fits the message of my project. However, I will need to test it first because it may take time to dry, and it may not be strong enough unless the cardboard structure underneath is stable.
+
+A key part of my independent study was thinking about the role of AI in my project. I do not want the final work to feel like something fully generated or controlled by AI. Instead, I want to use the project as a small commentary on how design can lose its human touch when people rely too heavily on digital tools. By using my own spending data and recycled materials, the artefact becomes more personal and physical.
 
 ## Consultation Reflection
 
-During my consultation, we talked about my thematic focus, data sources, visualisation method, and the possible impact of my work. I think the impact question caught me off guard the most because I had only considered it briefly. I knew that I wanted viewers to think about their spending, but I had not fully explained what I wanted them to feel or question after seeing the work.
+During my consultation, we talked about my thematic focus, my data sources, my visualisation, and the impact of my work. I think the impact question caught me off guard the most, as I had only considered it slightly before the consultation. I knew that I wanted the work to make viewers think about spending, while also linking to AI usage and sustainability, but I had not fully explained how these ideas would connect.
 
-After the consultation, I realised that the project needs a clearer message. It is not just about showing how much money I spent. It is also about showing how spending connects to habit, desire, waste, and digital culture. This helped me think more carefully about why I chose the tree form and the name **Hesperides**. The tree can represent growth, temptation, and value, while the recycled materials can show the environmental cost behind consumption.
+After the consultation, I realised that I need to make the message of the project clearer. The work is not just about tracking money. It is also about reflecting on personal habits, consumption, and the value of handmade design. My spending data shows how money is used in daily life, while the recycled sculpture shows the physical waste and materials that can come from consumption.
 
-One thing I want to follow up on is how viewers will read the data. I need to make sure the final sculpture is understandable without needing a long explanation. I may need labels, a key, or a short project statement beside the artefact.
+The consultation also helped me think about the audience. I want viewers to question their own spending and think about how often they consume without noticing. I also want them to think about the role of AI in creative work. While AI can be useful, I think there is still value in making something by hand and using physical materials to communicate an idea.
+
+Moving forward, I need to focus on making the link between the data and the artefact stronger. I will do this by making sure that each part of the sculpture clearly represents something from my spreadsheet. I also need to keep recording my spending consistently so that the final data is accurate enough to use.
 
 ## AI Usage Statement
 
-I used ChatGPT to help refine my written journal entry, organise my ideas, and develop clearer wording around my project concept. I also used it to help think through possible links between my spending data, recycled materials, sustainability, and the overuse of AI in design. The final project idea, dataset, visual direction, and personal reflections are my own. I edited the AI-assisted writing to match my own voice and project direction.
+I did not use AI for this week of the assingment
