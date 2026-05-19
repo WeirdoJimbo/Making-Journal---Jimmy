@@ -21,34 +21,34 @@ I think this is important to keep in mind while creating my final artefact. I ma
 
 I think that this tree sculpture really stood out to me, as I initially believed it to be a real tree before looking deeper. As mentioned in my proposal, I really want to create my sculpture out of recycled materials as a commentary on the overuse of AI that many designers have come to rely on. Seeing this sculpture reinforced my desire to use recycled materials to create this artefact, which I have named “Hesperides.”
 
-![Eco-Garden data sculpture](../assets/week-06/6-3.jpg)  
-*Image reference: Eco-Garden data sculpture, https://visforclimateaction.github.io/papers/1018-doc.pdf*
+![Eco-Garden data sculpture](../assets/week-06/6-2.png)  
+*Image Taken from: Eco-Garden data sculpture, https://visforclimateaction.github.io/papers/1018-doc.pdf*
 
 This project is useful for my own work because it shows how data can become a physical object instead of staying as a graph or screen-based visualisation. I like how the garden form makes the data feel more personal and less cold. This connects to my idea because I want my spending data to become part of a tree-like sculpture, where the shape and materials carry meaning. It also helped me think about how my artefact could make people reflect on everyday habits, such as spending, waste, and consumption.
 
-![My Plastic Footprint physical visualisation](../assets/week-06/6-4.jpg)  
-*Image reference: My Plastic Footprint, https://medium.com/nightingale/my-plastic-footprint-a-physical-data-visualisation-project-6a35eec32845*
+![My Plastic Footprint physical visualisation](../assets/week-06/6-3.png)  
+*Image taken from: My Plastic Footprint, https://medium.com/nightingale/my-plastic-footprint-a-physical-data-visualisation-project-6a35eec32845*
 
 This project tracks personal plastic use and turns it into a physical data visualisation. I found this relevant because it uses data from everyday life, similar to how I am using my own spending data. It shows that personal data can still have wider meaning when it connects to bigger issues like waste, sustainability, and consumer behaviour. This made me think about how my own purchases could represent more than just money spent. They could also show patterns of need, habit, impulse, and waste.
 
-![Perpetual Plastic data sculpture](../assets/week-06/6-5.jpg)  
-*Image reference: Perpetual Plastic, https://www.designboom.com/art/perpetual-plastic-data-sculpture-4760-pieces-of-trash-08-09-2021/*
+![Perpetual Plastic data sculpture](../assets/week-06/6-4.png)  
+*Image taken from: Perpetual Plastic, https://www.designboom.com/art/perpetual-plastic-data-sculpture-4760-pieces-of-trash-08-09-2021/*
 
 This data sculpture uses collected pieces of plastic waste to create a visual and physical impact. I think this is useful research because the material itself becomes part of the message. This links to my plan to use recycled cardboard and paper instead of buying new materials. I want the sculpture to feel handmade and imperfect, because that contrasts with the clean, polished look of AI-generated design. This reference helped me think about how rough materials can still create a strong visual outcome.
 
-![Waste Age exhibition e-waste installation](../assets/week-06/6-6.jpg)  
+![Waste Age exhibition e-waste installation](../assets/week-06/6-5.jpeg)  
 *Image reference: Waste Age: What Can Design Do?, https://designmuseum.org/exhibitions/waste-age-what-can-design-do*
 
 This reference helped me think more about the environmental side of my project. The exhibition looks at how design can respond to waste and overconsumption. I think this connects to my project because I am not only visualising spending, but also questioning the systems behind spending and production. My use of recycled materials can help show that the project is not just about personal finance, but also about the waste created by consumer culture and technology.
 
-![Garden of the Hesperides reference](../assets/week-06/6-7.jpg)  
-*Image reference: Le Jardin des Hespérides, https://artpublicmontreal.ca/en/%C5%93uvre/le-jardin-des-hesperides-the-garden-of-the-hesperides/*
+![Garden of the Hesperides reference](../assets/week-06/6-6.png)  
+*Image taken from: Le Jardin des Hespérides, https://artpublicmontreal.ca/&oelig;uvre/le-jardin-des-hesperides/*
 
 This reference connects to the name of my project, **Hesperides**. In Greek mythology, the Garden of the Hesperides is linked to a tree with golden apples. I chose this name because my project is about value, temptation, and consumption. The “golden apples” can represent the things I spend money on, while the tree becomes a way to show how spending grows over time. This helped me think about using the tree not just as a shape, but as a symbol for desire, money, and the things people reach for.
 
 ## Project Planning
 
-![Image of my diagram drawing](../assets/week-06/6-2.jpg)
+![Image of my diagram drawing](../assets/week-06/6-7.jpg)
 
 I think the first priority is figuring out how I am going to actually create the sculpture. The main idea I am thinking of right now is using recycled cardboard for the main structure, then adding paper and paper mache over the cardboard. This means my first priority is learning how to use paper mache properly and testing whether it will be strong enough for the final artefact.
 
@@ -70,7 +70,9 @@ Another idea is to use hanging tags or fruit-like shapes to represent individual
 
 I also researched and thought about paper mache as a possible method. Paper mache could work well because it uses paper, glue, and water, which makes it accessible and low-cost. It also creates a handmade texture that fits the message of my project. However, I will need to test it first because it may take time to dry, and it may not be strong enough unless the cardboard structure underneath is stable.
 
-A key part of my independent study was thinking about the role of AI in my project. I do not want the final work to feel like something fully generated or controlled by AI. Instead, I want to use the project as a small commentary on how design can lose its human touch when people rely too heavily on digital tools. By using my own spending data and recycled materials, the artefact becomes more personal and physical.
+A key part of my independent study was thinking about the role of AI in my project. I do not want the final work to feel like something fully generated or controlled by AI. Instead, I want to use the project as a small commentary on how design can lose its human touch when people rely too heavily on digital tools. By using my own spending data and recycled materials, the artefact becomes more personal and physical. 
+
+Another part of mt independent study was drawing a concept sketch, can be seen in week 7's Making Journal page, alongside some reflections and comments from the class
 
 ## Consultation Reflection
 
@@ -84,4 +86,4 @@ Moving forward, I need to focus on making the link between the data and the arte
 
 ## AI Usage Statement
 
-I did not use AI for this week of the assingment
+The only thing I used AI for this week was asking it to give me some cool links to projects that would fit or be interesting to me based on my proposal
