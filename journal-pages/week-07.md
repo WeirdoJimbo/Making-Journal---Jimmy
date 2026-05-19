@@ -54,3 +54,26 @@ The variation I chose to explore further was the second idea: **what if the frui
 Fruit that is close to the trunk would represent useful or necessary spending, such as rent, food, or transport. Fruit further away from the trunk would represent purchases that were less useful or more impulsive. Fallen fruit on the grass would represent purchases that I regretted or felt were unnecessary after buying them.
 
 This variation differs from my current approach because my original idea mainly focused on showing the amount of money spent. This new version adds another layer of meaning by showing how I felt about each purchase. It could open up my project by making the data physicalisation more emotional and easier for viewers to relate to, because most people understand the feeling of spending money on things they later regret.
+
+
+## Independent Study
+
+For my independent study this week, I continued developing my project by building from the Making Sprint and the “what if” variations from class. After making my paper prototypes, I started to understand the project more as a physical object rather than just an idea or sketch. The first prototype did not work that well, but it helped me see what I did not want the final tree to look like. The second prototype was more useful because the slotting method made the tree stand up and gave it a stronger 3D structure.
+
+One of the main things I worked on was thinking about how the fruit would connect to the branches. In the prototype, I used tape to quickly test how the fruit could hang from the tree. This was not a final method, but it helped me picture how the spending data could sit on the sculpture. For the final version, I think I will need a cleaner method, such as using string, black paper, wire, or small hooks to make the fruit look more intentional.
+
+I also thought more about the feedback I received in class. Some people were interested in the idea because it was more physical than a lot of other projects, but some feedback showed that the data system was not clear enough yet. This helped me realise that I need to make the rules of the visualisation easy to understand. The viewer should be able to tell what the fruit size, position, and placement means without needing a long explanation.
+
+The “what if” variation I chose to explore was the idea of showing usefulness as well as money spent. I think this moved my project forward because it makes the data more personal and reflective. Instead of only showing how much I spent, the sculpture can also show how I felt about each purchase. Larger fruit can show more expensive purchases, while the distance from the trunk can show how useful the purchase was. Fruit closer to the trunk could show useful or necessary spending, while fruit further away could show purchases that were less useful or more impulsive. Fallen fruit could show purchases that I regret or see as wasteful.
+
+This changed the direction of my project because my original idea was mainly focused on cost and spending categories. Now the project has another layer of meaning. It is not just about money, but also about value, habits, impulse, and reflection. I think this links well to the name “Hesperides” because the fruit can represent temptation and value, similar to the golden apples from the myth.
+
+I also spent time thinking about scale. In class, someone asked how big the final sculpture would be, which made me realise that I had not decided this yet. At the moment, I think the tree should be around 60cm tall. This seems large enough to hold multiple fruit pieces, but still small enough to build with recycled cardboard and paper. I will need to test this more because the tree has to be stable and strong enough to hold the data pieces.
+
+The main technical skill I need to keep building is physical construction. I need to learn how to make the tree stable, how to strengthen the cardboard structure, and how to attach the fruit without damaging the branches. I may also need to test paper mache, layering cardboard, and different base designs. This week helped me move from just planning the project to testing how it could actually be made.
+
+Overall, this independent study helped me make clearer decisions about the data system and the physical form. My next step is to keep recording my spending data, organise it into categories, and start testing a stronger version of the tree structure. I also need to decide exactly how each purchase will be represented so that the final artefact is clear, personal, and visually interesting.
+
+## Presentation 
+
+[Presentation Link](https://www.canva.com/design/DAHI9wrn3i4/xt657oLMum1mxGB3JDcDkg/edit?ui=e30)
