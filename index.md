@@ -20,9 +20,9 @@ title: Home
 | [Week 04](journal-pages/week-04.md) | Experiment 4 Artificial Intelligence |
 | [Week 05](journal-pages/week-05.md) | Proposal |
 | [Week 06](journal-pages/week-06.md) | Hesperides - Planning |
-| [Week 07](journal-pages/week-07.md) | Design Project |
-| [Week 08](journal-pages/week-08.md) | Design Project |
-| [Week 09](journal-pages/week-09.md) | Design Project |
-| [Week 10](journal-pages/week-10.md) | Design Project |
-| [Week 11](journal-pages/week-11.md) | Design Project |
+| [Week 07](journal-pages/week-07.md) | Hesperides - Ideation |
+| [Week 08](journal-pages/week-08.md) | Hesperides - Progress & Feedback |
+| [Week 09](journal-pages/week-09.md) | Hesperides - Processes |
+| [Week 10](journal-pages/week-10.md) | Hesperides - Trial & Error |
+| [Week 11](journal-pages/week-11.md) | Hesperides - Creation |
 | [Week 12](journal-pages/week-12.md) | Showcase |
