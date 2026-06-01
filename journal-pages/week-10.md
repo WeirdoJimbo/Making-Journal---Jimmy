@@ -12,9 +12,9 @@ Class in Week 10 started with sharing our progress reports in a similar way to t
 
 The two questions I asked my group were:
 
-1. **"How do we feel about the cut apples being used to show data, and how could I further develop the data aspect of my design?"**
+1. "How do we feel about the cut apples being used to show data, and how could I further develop the data aspect of my design?"**
 
-2. **"What do we feel about my theme of desire, convenience, and waste behind modern consumption?"**
+2. "What do we feel about my theme of desire, convenience, and waste behind modern consumption?"**
 
 I got some useful feedback from the group. People said that they liked my new direction of having the apples cut in half because it made the data easier to display and understand. They also said that the less useful apples could be the ones with worms in them, while the healthier and more useful apples could be placed higher up on the tree.
 
@@ -30,7 +30,7 @@ The Gallery Walk also helped me see how other people were developing their proje
 
 ## Action Plan
 
-The most useful feedback I got this week was that my project feels stronger now that I have narrowed my theme down. Instead of trying to show too many ideas at once, the group seemed to respond well to the focus on **desire, convenience, and waste behind modern consumption**. This helped me realise that my project does not need to explain every part of food waste, AI, sustainability, and spending habits. Instead, it should make one clear point through the apple tree form.
+The most useful feedback I got this week was that my project feels stronger now that I have narrowed my theme down. Instead of trying to show too many ideas at once, the group seemed to respond well to the focus on desire, convenience, and waste behind modern consumption**. This helped me realise that my project does not need to explain every part of food waste, AI, sustainability, and spending habits. Instead, it should make one clear point through the apple tree form.
 
 A key piece of feedback was around the cut apples. People liked the idea of the apples being sliced open because it makes the data easier to display and understand. To develop this further, I want to make the inside of each apple show a clearer data value, such as cost, usefulness, or waste linked to each item.
 
@@ -99,12 +99,10 @@ A third idea was to have extra apples and string lying around next to the displa
 
 After reflecting on the feedback and the failed TFT screen experiment, I started to develop a clearer data system for the final sculpture. At this stage, I am thinking about using the following rules:
 
-- **Apple size** shows how much money was spent.
-- **Apple position** shows how important or useful the purchase felt.
-- **String colour** shows the emotion linked to the purchase.
-- **Worms or damaged sections** show regret, waste, or unnecessary spending.
-- **Fallen apples** show purchases that felt less valuable after buying them.
-- **Extra blank apples** allow viewers to add their own spending data.
+- Apple size shows how much money was spent.
+- Apple position shows how important or useful the purchase felt.
+- String colour shows the emotion linked to the purchase.
+
 
 This system feels stronger because the data is not only written onto the apples. Instead, the material, placement, and form of each apple all help communicate the meaning. I think this makes the project more suitable as a physical data visualisation because the audience can read the data through the object itself.
 
@@ -112,12 +110,12 @@ This system feels stronger because the data is not only written onto the apples.
 
 After deciding on this new direction, I began prototyping both the apples and the tree trunk.
 
-I started by using Fusion, as I have previous experience with it, to create a model of an apple. I then tested a print using my 3D printer at home. This first print turned out well, and I tested it with coloured yarn, which can be seen in the photo below. This helped me see how the apple could hang from the tree and how the string could become part of the data system.
+I started by using Fusion, as I have previous experience with it, to create a model of an apple. I then tested a print using my 3D printer at home. This first print turned out well, and I tested it with coloured yarn, which can be seen in the photo below. This helped me see how the apple could hang from the tree and how the string could become part of the data system. Afterwards I then went to the lab to print off some other apples which would be my final apples as the prototype went really well. 
 
 ![3D printed apple prototype](../assets/week-10/10-5.jpeg)  
 *3D printed apple prototype tested with coloured yarn*
 
-After that, I headed into the lab to test my laser cutting again. My previous laser-cut test did not slot together properly because I did not account for the width of the material I was using. This time, I tested on a very small piece of leftover material and was able to get it slotting together correctly.
+After that, I tested my laser cutting again. My previous laser-cut test did not slot together properly because I did not account for the width of the material I was using. This time, I tested on a very small piece of leftover material and was able to get it slotting together correctly.
 
 ![Laser cutting slot test](../assets/week-10/10-6.jpeg)  
 *Small laser-cut slotting prototype used to test the material thickness*

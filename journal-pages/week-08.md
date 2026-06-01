@@ -14,9 +14,9 @@ At this stage, my project was focused on creating a physical data visualisation 
 
 The two questions I asked my group were:
 
-1. **"Should I attempt to create this sculpture out of recycled materials, or should I use either 3D printing or laser cutting?"**
+1. "Should I attempt to create this sculpture out of recycled materials, or should I use either 3D printing or laser cutting?"
 
-2. **"Is there anything you would add or change to more closely link this idea to data design?"**
+2. "Is there anything you would add or change to more closely link this idea to data design?"
 
 ### Feedback on Materials and Making
 
@@ -103,4 +103,4 @@ The main things I need to decide are:
 
 I also need to start thinking more about how I will actually make the final object. At the moment, I am leaning towards using laser-cut materials for the main structure, as this would make the tree more stable and easier to build. However, I still want to include recycled materials somewhere in the project, because I think that links well to the environmental and consumption-based ideas behind the work.
 
-This week helped me move my project forward because it gave me clearer feedback from other people. Before this, I was mostly thinking about how the project looked and what it meant conceptually. Now, I am thinking more about how the data will actually be read by the viewer. My next step is to create a clearer data system and test how the fruit, colour, size, and placement will work together before I start making the final sculpture.
+This week helped me move my project forward because it gave me clearer feedback from other people. Before this, I was mostly thinking about how the project looked and what it meant conceptually. Now, I am thinking more about how the data will actually be read by the viewer. My next step is to create a clearer data system and test how the fruit, colour, size, and placement will work together before I start making the final sculpture. Other than this little amount of thinking that I did during this week on my project I didn't really work on it outside of class as I was busy with other class assingments. 

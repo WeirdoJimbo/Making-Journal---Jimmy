@@ -10,7 +10,7 @@ layout: default
 
 For the first draft of my project statement, I used NotebookLM to generate a statement based on what I had so far in my making journal, as well as my original proposal for Hesperides.
 
-s"My project, Hesperides, is a physical tree sculpture made from recycled cardboard and papier-mâché. The trunk of the tree represents me, while the branches represent different spending categories such as food, rent, transport, and other purchases. Each purchase is shown as either a piece of “fruit” or a leaf. The size of the fruit shows the cost of the purchase, while its distance from the trunk shows how necessary or impulsive the purchase was.
+"My project, Hesperides, is a physical tree sculpture made from recycled cardboard and papier-mâché. The trunk of the tree represents me, while the branches represent different spending categories such as food, rent, transport, and other purchases. Each purchase is shown as either a piece of “fruit” or a leaf. The size of the fruit shows the cost of the purchase, while its distance from the trunk shows how necessary or impulsive the purchase was.
 
 The data for this work comes from my personal bank statements, receipts, and notes recorded throughout May. By documenting every transaction in a spreadsheet, I have created a self-collected dataset that reflects my daily habits, needs, and priorities.
 
@@ -110,5 +110,4 @@ The main things I wanted feedback on were:
 [Presentation Link](https://www.canva.com/design/DAHI9wrn3i4/xt657oLMum1mxGB3JDcDkg/edit?ui=e30)
 
 ## AI Usage Statement
-
 I used NotebookLM to generate the first draft of my project statement, as asked for by Leo. 

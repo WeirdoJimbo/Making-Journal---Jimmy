@@ -49,16 +49,16 @@ After making my paper prototypes, I shared my making sprint outcome with my part
 
 My partner then suggested three “what if” variations that could take the project in different directions:
 
-1. **What if the tree was less realistic and more abstract?**  
+1. What if the tree was less realistic and more abstract?  
    Instead of looking like a normal tree, the trunk and branches could become more distorted or unusual to show the messy nature of spending habits.
 
-2. **What if the fruit did not just show money spent, but also showed whether the purchase was useful or wasteful?**  
+2. What if the fruit did not just show money spent, but also showed whether the      purchase was useful or wasteful
    For example, useful purchases could stay attached to the tree, while less useful or regretful purchases could fall onto the grass below.
 
-3. **What if the tree changed depending on the type of spending?**  
+3. What if the tree changed depending on the type of spending? 
    Each branch could represent a different category, such as food, rent, clothing, transport, or entertainment. This would make it easier for viewers to compare where most of my money went.
 
-The variation I chose to explore further was the second idea: **what if the fruit showed usefulness as well as cost?** I found this interesting because it would make the project more personal and reflective, rather than only showing numbers. In this version, the size of the fruit would still represent how much money was spent, but the position of the fruit would show how useful the purchase felt afterwards.
+The variation I chose to explore further was the second idea: what if the fruit showed usefulness as well as cost? I found this interesting because it would make the project more personal and reflective, rather than only showing numbers. In this version, the size of the fruit would still represent how much money was spent, but the position of the fruit would show how useful the purchase felt afterwards.
 
 Fruit close to the trunk would represent useful or necessary spending, such as rent, food, or transport. Fruit further away from the trunk would represent purchases that were less useful or more impulsive. Fallen fruit on the grass would represent purchases that I regretted or felt were unnecessary after buying them.
 
@@ -66,7 +66,7 @@ This variation differs from my current approach because my original idea mainly 
 
 This variation also makes the data easier to read because it creates a clear visual rule. The viewer can compare not only how much money was spent, but also how valuable each purchase felt afterwards. This gives the sculpture a stronger emotional layer because it shows the difference between cost and usefulness.
 
-## Independent Study
+## Progress Development
 
 For my independent study this week, I continued developing my project by building on the making sprint and the “what if” variations from class. After making my paper prototypes, I started to understand the project more as a physical object rather than just an idea or sketch. The first prototype did not work that well, but it helped me see what I did not want the final tree to look like. The second prototype was more useful because the slotting method made the tree stand up and gave it a stronger 3D structure.
 
@@ -74,7 +74,7 @@ One of the main things I worked on was how the fruit would connect to the branch
 
 I also thought more about the feedback I received in class. Some people were interested in the idea because it was more physical than many other projects. However, some feedback showed that the data system was not clear enough yet. This helped me realise that I need to make the rules of the visualisation easy to understand. The viewer should be able to tell what the fruit size, position, and placement mean without needing a long explanation.
 
-The “what if” variation I chose to explore was the idea of showing usefulness as well as money spent. This moved my project forward because it makes the data more personal and reflective. Instead of only showing how much I spent, the sculpture can also show how I felt about each purchase. Larger fruit can show more expensive purchases, while the distance from the trunk can show how useful the purchase was. Fruit closer to the trunk can show useful or necessary spending, while fruit further away can show purchases that were less useful or more impulsive. Fallen fruit can show purchases that I regret or see as wasteful.
+The what if variation I chose to explore was the idea of showing usefulness as well as money spent. This moved my project forward because it makes the data more personal and reflective. Instead of only showing how much I spent, the sculpture can also show how I felt about each purchase. Larger fruit can show more expensive purchases, while the distance from the trunk can show how useful the purchase was. Fruit closer to the trunk can show useful or necessary spending, while fruit further away can show purchases that were less useful or more impulsive. Fallen fruit can show purchases that I regret or see as wasteful.
 
 This changed the direction of my project because my original idea was mainly focused on cost and spending categories. Now, the project has another layer of meaning. It is not just about money, but also about value, habits, impulse, and reflection. This links well to the name “Hesperides” because the fruit can represent temptation and value, similar to the golden apples from the myth.
 
@@ -84,6 +84,16 @@ The main technical skill I need to keep building is physical construction. I nee
 
 Overall, this independent study helped me make clearer decisions about both the data system and the physical form of the project. The most important development this week was realising that the fruit should not only show cost, but also usefulness and regret. This makes the project more personal and gives the audience more to interpret. My next step is to keep recording my spending data, sort it into clear categories, and test a stronger version of the tree structure at a larger scale. I also need to finalise the visual rules so that the final artefact is clear, personal, and suitable for public display.
 
-## Presentation 
+## Progress Report
+For the progress report I created a slideshow with the following pages
+1. The Concept
+2. Where My Project Currently Stands
+3. Key Developments & Decisions
+4. Visual Aids
+5. My Questions
+
+Although the concept page wasn't required I thought it would be useful just so people got a greater understanding of the naming of my project and how it builds upon the themes and ideals that I wish to display. 
+
+I also wanted to update people on my data as by this time I was halfway through collecting it as I had changed it to the first 2 weeks of may; as well I also collected some additional data such as my emotions while spending the moeny, as well as (roughly) 24 hours later I also rated the purchase out of 10 on how important it really was to spend that money. 
 
 [Presentation Link](https://www.canva.com/design/DAHI9wrn3i4/xt657oLMum1mxGB3JDcDkg/edit?ui=e30)

@@ -48,7 +48,8 @@ This reference connects to the name of my project, **Hesperides**. In Greek myth
 
 ## Project Planning
 
-![Image of my diagram drawing](../assets/week-06/6-7.jpg)
+![Image of my diagram drawing](../assets/week-06/6-7.jpeg)
+*Image of my diagram drawing*
 
 The first priority is figuring out how I am going to create the sculpture. The main idea I am thinking of right now is using recycled cardboard for the main structure, then adding paper and paper mache over the cardboard. This means my first priority is learning how to use paper mache properly and testing whether it will be strong enough for the final artefact.
 
@@ -62,20 +63,6 @@ After that, I need to do more research into how to make the sculpture. I will ne
 
 At this stage, my idea is that each fruit or leaf will represent one purchase. The size of the fruit will show the cost of the purchase, while the branch or placement may show the spending category. This system may change as I test the form, but it gives me a starting point for turning my spreadsheet data into a physical object.
 
-## Independent Study
-
-For my independent study this week, I focused on thinking through how my data and final artefact could connect more clearly. At first, I knew that I wanted to track my spending and create a sculpture, but I had not fully decided how the data would appear in the final work. After looking at visual research, I started to think more about using the tree form as a way to show different types of spending.
-
-One possible idea is to make each branch represent a spending category. For example, one branch could represent food, another could represent rent, and another could represent clothes or personal spending. The size or number of leaves on each branch could show how much money was spent in that category. This would allow the viewer to understand the data through the shape of the tree.
-
-Another idea is to use hanging tags or fruit-like shapes to represent individual purchases. Larger purchases could be shown through larger pieces, while smaller purchases could be shown through smaller pieces. This would make the spending data more visual and physical. It would also connect well to the name **Hesperides**, as the tree could hold objects that represent value, cost, and consumption.
-
-I also researched and thought about paper mache as a possible method. Paper mache could work well because it uses paper, glue, and water, which makes it accessible and low-cost. It also creates a handmade texture that fits the message of my project. However, I will need to test it first because it may take time to dry, and it may not be strong enough unless the cardboard structure underneath is stable.
-
-A key part of my independent study was thinking about the role of AI in my project. I do not want the final work to feel like something fully generated or controlled by AI. Instead, I want to use the project as a small commentary on how design can lose its human touch when people rely too heavily on digital tools. By using my own spending data and recycled materials, the artefact becomes more personal and physical.
-
-Another part of my independent study was drawing a concept sketch, which can be seen in my Week 7 making journal page. This sketch helped me start planning the physical form of the tree and gave me something to share with the class for feedback.
-
 ## Consultation Reflection
 
 During my consultation, we talked about my thematic focus, my data sources, my visualisation, and the impact of my work. The impact question caught me off guard the most because I had only considered it briefly before the consultation. I knew that I wanted the work to make viewers think about spending, while also linking to AI usage and sustainability, but I had not fully explained how these ideas would connect.
@@ -85,6 +72,23 @@ After the consultation, I realised that I need to make the message of the projec
 The consultation also helped me think about the audience. I want viewers to question their own spending and think about how often they consume without noticing. I also want them to think about the role of AI in creative work. While AI can be useful, there is still value in making something by hand and using physical materials to communicate an idea.
 
 Moving forward, I need to focus on making the link between the data and the artefact stronger. I will do this by making sure that each part of the sculpture clearly represents something from my spreadsheet. I also need to keep recording my spending consistently so that the final data is accurate enough to use.
+
+## Technical Skill Building & Concept Sketch
+
+For my independent study this week, I focused on thinking through how my data and final artefact could connect more clearly. At first, I knew that I wanted to track my spending and create a sculpture, but I had not fully decided how the data would appear in the final work. After looking at visual research, I started to think more about using the tree form as a way to show different types of spending.
+
+One possible idea is to make each branch represent a spending category. For example, one branch could represent food, another could represent rent, and another could represent clothes or personal spending. The size or number of leaves on each branch could show how much money was spent in that category. This would allow the viewer to understand the data through the shape of the tree.
+
+Another idea is to use hanging tags or fruit-like shapes to represent individual purchases. Larger purchases could be shown through larger pieces, while smaller purchases could be shown through smaller pieces. This would make the spending data more visual and physical. It would also connect well to the name Hesperides, as the tree could hold objects that represent value, cost, and consumption.
+
+I also researched and thought about paper mache as a possible method. Paper mache could work well because it uses paper, glue, and water, which makes it accessible and low-cost. It also creates a handmade texture that fits the message of my project. However, I will need to test it first because it may take time to dry, and it may not be strong enough unless the cardboard structure underneath is stable.
+
+A key part of my independent study was thinking about the role of AI in my project. I do not want the final work to feel like something fully generated or controlled by AI. Instead, I want to use the project as a small commentary on how design can lose its human touch when people rely too heavily on digital tools. By using my own spending data and recycled materials, the artefact becomes more personal and physical.
+
+Another part of my independent study was drawing a concept sketch, which can be seen in my Week 7 making journal page and below here. This sketch helped me start planning the physical form of the tree and gave me something to share with the class for feedback.
+
+![Concept sketch of the tree idea](../assets/week-06/6-8.jpeg)  
+*Image of my concept sketch*
 
 ## AI Usage Statement
 
