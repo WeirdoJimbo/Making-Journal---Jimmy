@@ -12,9 +12,9 @@ Class in Week 10 started with sharing our progress reports in a similar way to t
 
 The two questions I asked my group were:
 
-1. "How do we feel about the cut apples being used to show data, and how could I further develop the data aspect of my design?"**
+1. "How do we feel about the cut apples being used to show data, and how could I further develop the data aspect of my design?"
 
-2. "What do we feel about my theme of desire, convenience, and waste behind modern consumption?"**
+2. "What do we feel about my theme of desire, convenience, and waste behind modern consumption?"
 
 I got some useful feedback from the group. People said that they liked my new direction of having the apples cut in half because it made the data easier to display and understand. They also said that the less useful apples could be the ones with worms in them, while the healthier and more useful apples could be placed higher up on the tree.
 
