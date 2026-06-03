@@ -6,6 +6,15 @@ layout: default
 
 [← Back to Home](../index.md)
 
+## Xeno Computer 0.1: Labor Case Study
+
+Before drafting our own project statement, we looked at "Xeno Computer 0.1: Labor" by Tega Brain and Sam Lavigne. The work uses data connected to labour, automation, and digital systems to question how work is measured and controlled. I found this useful because it showed how a project statement can do more than explain what a work is. It can also explain the wider system the work is critiquing.
+
+The future scenario in this case study seems to be one where work, people, and value are increasingly shaped by computer systems. The project raises questions about who benefits from these systems, who is made invisible, and how data can be used as a form of power. This helped me think about my own project because Hesperides also deals with personal data, judgement, and value.
+
+The main thing I took from this case study is that my project statement needs to clearly state what my work is arguing. I do not want Hesperides to only say, “this is my spending data.” I want it to question how spending data can reveal desire, guilt, waste, and the pressure to keep consuming.
+
+
 ## Project Statement: First Draft
 
 For the first draft of my project statement, I used NotebookLM to generate a statement based on what I had so far in my making journal, as well as my original proposal for Hesperides.
@@ -44,9 +53,21 @@ This feedback helped me realise that my next step should be less about adding mo
 
 ## Making Sprint
 
-For the making sprint, I wanted to start physically working towards my final project. Before this point, most of my progress had been based on thinking, writing, sketching, and planning. During the making sprint, I began constructing the laser-cutting file in Adobe Illustrator. This took a while because I wanted to get the shape and structure right, so it took up most of the making sprint time.
+## Making Sprint
 
-As seen below, I was able to create the main look of my tree. I am happy with this outcome because it starts to show how the physical sculpture might actually work, rather than only existing as a sketch. The tree shape also connects well to the Hesperides myth, while still leaving space for the fruit to hold the data.
+For the making sprint, I wanted to start moving my project closer to its final physical form. Before this point, most of my progress had been based on thinking, writing, sketching, and planning. During the sprint, I focused on creating the laser-cutting file in Adobe Illustrator. I was not able to cut the physical object during class, but I was able to prepare the main file that I could later take into the Design Lab.
+
+This took up most of the making sprint because I wanted to get the shape and structure of the tree right. I had to think about how the trunk and branches would look, where the apples could hang, and whether the structure would be stable enough once cut. Even though this was still a digital file, it was an important step because it turned my sketch into something that could be fabricated.
+
+As seen below, I was able to create the main look of my tree. I am happy with this outcome because it starts to show how the physical sculpture might work, rather than only existing as a sketch. The tree shape also connects well to the Hesperides myth, while still leaving space for the fruit to hold the data.
+
+![Illustrator file for the laser-cut tree design](../assets/week-09/9-1.png)
+*Illustrator file created during the making sprint for the main tree structure*
+
+The main thing I would change is the height of the tree. At the moment, I feel like it looks slightly bottom-heavy and stout. I think making it taller could make it look more elegant and tree-like. However, making it taller could also make it harder to cut, as it would take more material and may not fit within the size limits of the laser cutter. This is something I will need to check before deciding on the final scale.
+
+This making sprint was useful because it helped me move from concept development into technical planning. I also started to understand some of the practical limits of the project, such as material size, laser cutter space, branch thickness, and how stable the tree might be once it is eventually cut out.
+
 
 ![Illustrator file for the laser-cut tree design](../assets/week-09/9-1.png)  
 *Illustrator file created during the making sprint for the main tree structure*

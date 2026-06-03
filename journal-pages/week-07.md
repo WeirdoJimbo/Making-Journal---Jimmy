@@ -85,15 +85,25 @@ The main technical skill I need to keep building is physical construction. I nee
 Overall, this independent study helped me make clearer decisions about both the data system and the physical form of the project. The most important development this week was realising that the fruit should not only show cost, but also usefulness and regret. This makes the project more personal and gives the audience more to interpret. My next step is to keep recording my spending data, sort it into clear categories, and test a stronger version of the tree structure at a larger scale. I also need to finalise the visual rules so that the final artefact is clear, personal, and suitable for public display.
 
 ## Progress Report
-For the progress report I created a slideshow with the following pages
+## Progress Report
+
+For the progress report, I created a short slideshow with the following pages:
+
 1. The Concept
 2. Where My Project Currently Stands
 3. Key Developments & Decisions
 4. Visual Aids
 5. My Questions
 
-Although the concept page wasn't required I thought it would be useful just so people got a greater understanding of the naming of my project and how it builds upon the themes and ideals that I wish to display. 
+Although the concept page was not required, I thought it would be useful because it helped explain the name "Hesperides" and how the project connects to value, temptation, spending, and overconsumption.
 
-I also wanted to update people on my data as by this time I was halfway through collecting it as I had changed it to the first 2 weeks of may; as well I also collected some additional data such as my emotions while spending the moeny, as well as (roughly) 24 hours later I also rated the purchase out of 10 on how important it really was to spend that money. 
+I also used the progress report to update people on my data collection. At this stage, I had changed the dataset from the whole month of May to the first two weeks of May. This felt more realistic because it gave me a clear amount of data to collect, organise, and turn into a physical form before the final showcase. I also added extra fields to the dataset, including the emotion I felt while spending the money and a usefulness rating out of 10, recorded roughly 24 hours after the purchase. This helped the data become more reflective, rather than just financial.
+
+The main questions I wanted feedback on were:
+
+1. Should the fruit show only cost, or should it also show usefulness and regret?
+2. Is the tree structure clear enough as a data visualisation, or does it need a stronger key/legend?
+3. Should the final sculpture stay handmade with recycled materials, or should I use cleaner fabrication methods to make it look more resolved?
+
 
 [Presentation Link](https://www.canva.com/design/DAHI9wrn3i4/xt657oLMum1mxGB3JDcDkg/edit?ui=e30)

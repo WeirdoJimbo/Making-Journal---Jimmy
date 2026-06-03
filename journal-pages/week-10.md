@@ -26,7 +26,9 @@ While we were doing our progress reports, we also used a website called Padlet, 
 
 Even though I only received a small amount of written feedback through Padlet, the feedback I did get was still useful. I think this activity could have worked even better if it had been introduced earlier in the semester, as people would have been more comfortable using it during critique sessions.
 
-The Gallery Walk also helped me see how other people were developing their projects. This was useful because it showed me that strong data visualisation does not only come from having a good concept. It also needs a clear system that the audience can understand. This made me think more about whether my own project could be read clearly without me standing beside it to explain it.
+During the Gallery Walk, I also looked at other groups’ Padlet boards and read through the technical and conceptual feedback they had received. One thing I noticed was that the strongest projects were not always the most complex. They were the ones where the data system could be understood quickly.
+
+This helped me reflect on my own project because Hesperides has a strong concept, but the viewer still needs to understand how the data is being shown. From looking at other projects, I realised that I need to make my visual rules simple and consistent. If each apple shows too many things at once, the work could become confusing. Because of this, I want to focus on a few clear mappings: apple size for cost, string colour for emotion, and apple position for importance
 
 ## Action Plan
 
@@ -122,5 +124,5 @@ After that, I tested my laser cutting again. My previous laser-cut test did not 
 
 This was an important technical improvement because it helped me understand how the final tree structure will need to be designed. If the slots are too tight, the pieces will not fit together. If they are too loose, the tree will not stand properly. Testing this on a smaller piece of leftover material helped me avoid wasting larger pieces later.
 
-Overall, this week involved a lot of trial and error. The TFT screen experiment did not work, but it helped me realise that the interaction in my project should stay physical rather than digital. The progress report feedback helped me narrow my theme, while the prototyping helped me move closer to a final material system. My next step is to refine the apple data system, fix the image files for my prototypes, and continue testing the final tree structure at a larger scale.
+Overall, this week involved a lot of trial and error. The TFT screen experiment did not work, but it helped me realise that digital interaction was not the right direction for Hesperides. Instead, the interaction should come from the physical object itself: viewers reading the apples, comparing their positions, following the coloured strings, and possibly adding their own spending data to the tree. The progress report feedback helped me narrow the theme, while the prototyping helped me build a clearer material system. My next step is to refine the apple data system, test whether people can understand it without explanation, and continue developing the final tree structure at a larger scale.
 
