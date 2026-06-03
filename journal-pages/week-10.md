@@ -32,7 +32,7 @@ This helped me reflect on my own project because Hesperides has a strong concept
 
 ## Action Plan
 
-The most useful feedback I got this week was that my project feels stronger now that I have narrowed my theme down. Instead of trying to show too many ideas at once, the group seemed to respond well to the focus on desire, convenience, and waste behind modern consumption**. This helped me realise that my project does not need to explain every part of food waste, AI, sustainability, and spending habits. Instead, it should make one clear point through the apple tree form.
+The most useful feedback I got this week was that my project feels stronger now that I have narrowed my theme down. Instead of trying to show too many ideas at once, the group seemed to respond well to the focus on desire, convenience, and waste behind modern consumption. This helped me realise that my project does not need to explain every part of food waste, AI, sustainability, and spending habits. Instead, it should make one clear point through the apple tree form.
 
 A key piece of feedback was around the cut apples. People liked the idea of the apples being sliced open because it makes the data easier to display and understand. To develop this further, I want to make the inside of each apple show a clearer data value, such as cost, usefulness, or waste linked to each item.
 

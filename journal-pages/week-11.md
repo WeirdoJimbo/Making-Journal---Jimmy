@@ -14,12 +14,14 @@ During part of this activity, I was in the Design Lab working on the physical pr
 
 After this, I identified three key moments that shaped my project direction:
 
-Narrowing the concept
-Around Week 6, I had too many broad ideas happening at once, including AI, sustainability, spending habits, waste, and Greek mythology. This made the project feel unclear. A key turning point was deciding to focus more clearly on personal spending, temptation, convenience, and waste.
-Moving away from digital interaction
-In Week 10, I experimented with ESP32s and TFT displays because I wanted to add interaction to the project. This took a lot of time and did not work well enough to include in the final artefact. However, it helped me realise that the interaction should stay physical, through the viewer reading the apples, following the coloured strings, and possibly adding their own data.
-Starting physical prototyping
-Another key moment was beginning to prototype the artefact. Once I started laser cutting, 3D printing, painting, and testing the apple forms, the project became much clearer. Making the physical object helped me understand scale, material limits, and how the data could actually be displayed.
+1. Narrowing the concept
+    Around Week 6, I had too many broad ideas happening at once, including AI, sustainability, spending habits, waste, and Greek mythology. This made the project feel unclear. A key turning point was deciding to focus more clearly on personal spending, temptation, convenience, and waste.
+
+2. Moving away from digital interaction
+    In Week 10, I experimented with ESP32s and TFT displays because I wanted to add interaction to the project. This took a lot of time and did not work well enough to include in the final artefact. However, it helped me realise that the interaction should stay physical, through the viewer reading the apples, following the coloured strings, and possibly adding their own data.
+
+3. Starting physical prototyping
+    Another key moment was beginning to prototype the artefact. Once I started laser cutting, 3D printing, painting, and testing the apple forms, the project became much clearer. Making the physical object helped me understand scale, material limits, and how the data could actually be displayed.
 
 ## Practice Consultation
 
@@ -69,10 +71,10 @@ I also used Figma to design the A4 project statement so the text would look more
 *Final Project Statement In Holder*
 
 ## Final Tree
-While working on the project statement, I was also working towards my final tree outcome. The first thing I focused on was finishing the apples. After painting the exterior I tried to paint the interior by adding the data directly onto the apples. However, I quickly realised that the text looked messy and hard to read, so I had to paint over it pivot in a new direction.
+While working on the project statement, I was also working towards my final tree outcome. The first thing I focused on was finishing the apples. After painting the exterior I tried to paint the interior by adding the data directly onto the apples. However, I quickly realised that the text looked messy and hard to read, so I had to paint over it and pivot in a new direction.
 
 ![Apples painted over](../assets/week-11/11-3.jpeg)  
-*Apples with data that look bad*
+*Apple data test that did not work well*
 
 Since I was not happy with how the original apple interiors looked, I decided to redesign them. My first idea was to just cut out individual letters then glue them on the apple later. However when cutting out the letters in the lazer cutter I noticed two things, the first being that they were really small, and two, they were falling in between the gaps of the lazer cutter board. So I stopped the cut and instead 
 
@@ -89,7 +91,8 @@ I also liked how the matboard created a contrast between the outside and inside 
 *Apples with the lazer cut matboard*
 
 Afterwards, I got a full-sized sheet of MDF from the Design Lab and laser cut the final tree. I also added small notches into the branches so I could tie the apples onto the tree more easily. This process went smoothly because of the smaller slotting prototypes I made earlier. After the pieces were fully cut, I assembled them using the slots I had designed. Finally, I added the apples and tried my best to follow the data I had collected.
-![Final Apples](../assets/week-11/11-5.png)  
-*The final Tree Image*
+
+![Final Apples](../assets/week-11/11-5.jpeg)  
+*The final Tree*
 
 Overall, Week 11 was focused on finalising the project and preparing it for the showcase. The main progress was completing the project statement, designing the Atlas holder, refining the apple data inserts, laser cutting the final tree, and assembling the final artefact. This week helped bring together the key parts of Hesperides: the Greek myth, the spending data, the handmade physical form, and the critique of desire, convenience, and waste.
