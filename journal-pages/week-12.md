@@ -7,18 +7,39 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Project Statement
+At the edge of the West lies a garden, and in the centre sits the great tree of golden apples. Inspired by the Greek myth of the Hesperides, Hesperides is a physical data visualisation made from laser-cut wood and 3D-printed fruit. Hung from its bare branches are the spending habits of designer Jimmy Ma across the first week of May.
 
-At the edge of the west lies a garden, and in the centre sits the great tree of golden apples. Inspired by the Greek myths, Hesperides is a physical data visualisation made from laser-cut wood and 3D-printed fruit. Hung from its bare branches, in the form of golden apples, are the spending habits of designer Jimmy Ma across the first week of  May
+The data comes from bank transactions, receipts, and personal notes. Each apple holds details about one purchase, including the item, its relative importance, and the emotions connected to it. These choices are translated into physical form: the apple records the purchase, string colour shows the feeling behind it, and the apple’s distance from the branch shows whether it felt like a need or a want. Green = Happy, Red = Not Happy, Pink = Hungry.
 
-The data comes from bank transactions, receipts, and personal notes. Each apple holds details about one purchase, including the item, cost, relative importance, and emotion connected to it. These choices are translated into physical form: the apple records the purchase, the string colour shows the feeling behind it, and the apple’s distance from the branch shows whether it felt like a need or a want.
+The absence of foliage reflects the impact of overconsumption, repeated desires, and convenience slowly stripping away what once felt natural or abundant. In this way, the tree becomes both a display of personal spending and a warning about the wider costs of modern consumption.
 
-The absence of leaves on the tree reflects the impact of human overconsumption, where repeated desire and convenience slowly strip away what once felt natural or abundant. In this way, the tree becomes both a display of personal spending and a warning about the wider costs of modern consumption.
+Hesperides also questions how data is often shown as clean and neutral. A purchase is not only a number on a bank statement. It can carry guilt, comfort, pressure, memory, or desire. Hesperides looks towards a future where personal finance apps do more than track spending. In this future, apps may judge purchases as responsible, wasteful, necessary, or indulgent, shaping how people understand their habits.
 
-Hesperides also questions the way data is often shown as clean and neutral. A purchase is not only a number on a bank statement. It can carry guilt, comfort, pressure, memory, or desire. Hesperides looks towards a future where personal finance apps do more than track spending. In this future, apps may judge purchases as responsible, wasteful, necessary, or indulgent, shaping how people understand their own habits.
-
-Viewers are invited to think back to their last purchase. They can write their own purchase onto an apple of desire, choose a string colour, and hang it from the tree. The height of their apple is decided by how important the purchase feels to them, with needs placed closer to the branches and wants hanging lower toward the ground. Through this interaction, Hesperides invites viewers to reflect on what they consume, why they consume it, and what their spending reveals.
+Viewers are invited to think back to their last purchase. They can write their own purchase onto an apple of desire, choose a string colour, and hang it from the tree. The height of their apple is decided by how important the purchase feels, with needs placed closer to the branches and wants hanging lower toward the ground. Through this interaction, Hesperides invites viewers to reflect on what they consume, why they consume it, and what their spending reveals.
 
 ## Photos Of Hesperides
+
+![Final Photos](../assets/week-12/12-1.jpg)  
+*Hesperides Project Statement 1*
+
+![Final Photos](../assets/week-12/12-2.jpg)  
+*Hesperides Project Statement 2*
+
+![Final Photos](../assets/week-12/12-3.jpg)  
+*Hesperides Long Shot*
+
+![Final Photos](../assets/week-12/12-4.jpg)  
+*Hesperides Mid Shot*
+
+![Final Photos](../assets/week-12/12-5.jpg)  
+*Hesperides Close Shot*
+
+![Final Photos](../assets/week-12/12-6.jpg)  
+*Hesperides & Project Statement 1*
+
+![Final Photos](../assets/week-12/12-7.jpg)  
+*Hesperides & Project Statement 2*
+
 
 
 ## Reflection
