@@ -76,7 +76,7 @@ While working on the project statement, I was also working towards my final tree
 ![Apples painted over](../assets/week-11/11-3.jpeg)  
 *Apple data test that did not work well*
 
-Since I was not happy with how the original apple interiors looked, I decided to redesign them. My first idea was to just cut out individual letters then glue them on the apple later. However when cutting out the letters in the lazer cutter I noticed two things, the first being that they were really small, and two, they were falling in between the gaps of the lazer cutter board. So I stopped the cut and instead 
+Since I was not happy with how the original apple interiors looked, I decided to redesign them. My first idea was to just cut out individual letters then glue them on the apple later. However when cutting out the letters in the lazer cutter I noticed two things, the first being that they were really small, and two, they were falling in between the gaps of the lazer cutter board. So I stopped the cut and instead went back and tried to plan out a different direction.
 
 ![Bad Letters](../assets/week-11/11-3.5.jpeg)  
 *Attempt 1 at letters*
